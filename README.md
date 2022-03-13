@@ -3,6 +3,11 @@
 
 ## 效果展示:
 
+![演示案例](show/动画.gif)
+![txt文件](show/txt.png)
+![csv文件](show/csv.png)
+
+
 ## 依赖:
 - 下载python包依赖
   ```shell
