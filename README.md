@@ -22,7 +22,7 @@
   > 目前笔者手机(华为p30)连接尚未成功,可以连接http/https但是部分应用无法联网,诸多解决办法均已尝试但仍然失败,如果有人成功请务必与我联系,本项目不需手机连接
 
 ## 使用方法:
-- [视频介绍]() **如需使用务必观看,以及可能会出现的问题**
+- [视频介绍](https://github.com/learner-lu/xiaohongshu-spider/releases/download/v0.0.1/2022-03-13.17-53-57.mkv) **如需使用务必观看,以及可能会出现的问题**
 - 文字介绍
   - 打开fiddler(保证底部导航栏有图标),设置filters->show only the following host->`t.xiaohongshu.com`
   - 电脑端打开微信小程序小红书(保证底部导航栏有图标)
