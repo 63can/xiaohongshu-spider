@@ -1,0 +1,15 @@
+MAX_RETURN_ICON: 20
+MAX_VIDEO_ICON: 20
+SAVE_FREQUNCY: 20
+"\u4EE3\u9910":
+  now: 0
+  pointer: 0
+  target: 100
+"\u517B\u751F":
+  now: 0
+  pointer: 0
+  target: 100
+"\u85D5\u7C89":
+  now: 0
+  pointer: 0
+  target: 100
